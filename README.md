@@ -41,7 +41,7 @@ Predictive Modeling · Classification · Clustering · Feature Selection · scik
 Statistical Modeling · Regression Analysis · Hypothesis Testing · Survival Analysis · Experimental Design
 
 **Tools & Visualization:**  
-Power BI · SPSS · SAS · RStudio · GitHub
+Excel · SPSS · SAS · RStudio · GitHub
 
 ---
 
