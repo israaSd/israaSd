@@ -1,6 +1,7 @@
 # Hi, I'm Israa Saad 👋
 
-### Data Scientist | Statistician | Data Engineer
+### Data Scientist | Statistician 
+Python · SQL · Machine Learning · Statistical Analysis
 
 I'm a data professional with a background in Applied Mathematics and Statistics from the Lebanese University, combining practical experience in data engineering, statistical analysis, machine learning, and business analytics.
 
